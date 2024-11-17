@@ -9,9 +9,10 @@
 
 ## Work
 
-- Uber (2017 - Present)
-- Houzz (2015 - 2017)
-- Facebook (2011 - 2015)
+- Snap Inc (2020 - Present)
+- Uber Technologies Inc (2017 - 2020)
+- Houzz Inc (2015 - 2017)
+- Meta Inc (Facebook) (2011 - 2015)
 
 ## Contact
 
